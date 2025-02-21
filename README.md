@@ -1,4 +1,4 @@
-# wzq & ddx的数学基础课学习计划
+# wzqbb & ddx的数学基础课学习计划
 ## 25spring计划
 ### Linear Algebra@MIT18.06
 - textbool
