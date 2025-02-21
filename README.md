@@ -10,7 +10,7 @@
 - [course website](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 
 ## 后续可能会学的课
-### discrete Math and probability theory@USB CS70
+### discrete Math and probability theory@UCB CS70
 - [link](https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/CS70/#_1)
 
 ### Convex Optimization@Stanford EE364A
